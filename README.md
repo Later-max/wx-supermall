@@ -10,3 +10,5 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+## 如果发现接口无法使用 链接`https://www.showdoc.cc/128719739414963?page_id=2612400282844951`自行更换
+# 备注：后一半接口已经无法使用，此项目只有前一半的布局以及对应得业务逻辑
